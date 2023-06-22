@@ -1,16 +1,15 @@
-### Hi there 👋
+### BXH V League Online
 
-<!--
-**bxhvleagueonline/bxhvleagueonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BXH V League Online - Chuyên cập nhật dữ liệu bóng đá V League, bao gồm bảng xếp hạng V League, lịch thi đấu V League, kết quả V League, soi kèo, nhận định và trực tiếp bóng đá V League
 
-Here are some ideas to get you started:
+- Địa chỉ: 90/2 Hẻm 380 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SDT: 0967468702
+
+https://bxhvleague.online/
+
+https://www.behance.net/bxhvleagueonline
+
+https://www.flickr.com/people/198588400@N02/
+
+https://vi.gravatar.com/bxhvleagueonline
